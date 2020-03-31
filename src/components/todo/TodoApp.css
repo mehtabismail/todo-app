@@ -1,0 +1,13 @@
+.LoginPanel{
+    text-align: center;
+    margin-top: 100px;
+}
+button{
+    background-color: lightskyblue;
+    padding: 10px 20px 10px 20px;
+    width: 130px;
+}
+.PanelButton{
+    text-align: center;
+    margin-top: 20px;
+}
